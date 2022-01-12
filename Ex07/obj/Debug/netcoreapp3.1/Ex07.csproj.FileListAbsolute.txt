@@ -1,0 +1,14 @@
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\bin\Debug\netcoreapp3.1\Ex07.exe
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\bin\Debug\netcoreapp3.1\Ex07.deps.json
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\bin\Debug\netcoreapp3.1\Ex07.runtimeconfig.json
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\bin\Debug\netcoreapp3.1\Ex07.runtimeconfig.dev.json
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\bin\Debug\netcoreapp3.1\Ex07.dll
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\bin\Debug\netcoreapp3.1\Ex07.pdb
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.csproj.AssemblyReference.cache
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.AssemblyInfoInputs.cache
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.AssemblyInfo.cs
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.csproj.CoreCompileInputs.cache
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.dll
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.pdb
+C:\Users\vitor.perez\Documents\Curso C#\ListaExercicioPoo\Ex07\obj\Debug\netcoreapp3.1\Ex07.genruntimeconfig.cache
